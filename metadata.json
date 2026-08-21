@@ -1,0 +1,8 @@
+{
+  "name": "Remix RF Planning Dashboard 14 agustus",
+  "description": "Radio Frequency planning dashboard for site tracking and Drive Test analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
